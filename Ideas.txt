@@ -1,0 +1,7 @@
+Key Elements:
+	Menus 	-> File
+			-> Edit
+			
+	Textbox	-> Center
+	
+	
