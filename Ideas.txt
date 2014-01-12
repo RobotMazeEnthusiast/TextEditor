@@ -5,3 +5,22 @@ Key Elements:
 	Textbox	-> Center
 	
 	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Future Functionality
+--------------------
+
+Cut, Copy, Paste, View, Undo, Find, 
